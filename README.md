@@ -21,7 +21,7 @@ This is a simple web-based Secret friend game where users can add the names of t
 2. Navigate to the project directory:
 
     ```sh
-    cd secret-friend-game
+    cd J_AmigoSecreto
     ```
 
 3. Open [index.html](http://_vscodecontentref_/0) in your web browser to start the game.
